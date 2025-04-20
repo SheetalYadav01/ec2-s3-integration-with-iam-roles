@@ -67,7 +67,8 @@ sudo systemctl restart httpd
 
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/d5714351-9944-418f-b73a-821b159d5d4d" />
 
-<img width="372" alt="image" src="https://github.com/user-attachments/assets/7c36aa39-6119-4ea6-b960-4b9035d9b68d" />
+<img width="528" alt="image" src="https://github.com/user-attachments/assets/1c0b9076-2961-41fd-a258-76ed680b9fa2" />
+
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/2b8b996e-5c2c-4d95-92b1-a3c44d64923b" />
 
